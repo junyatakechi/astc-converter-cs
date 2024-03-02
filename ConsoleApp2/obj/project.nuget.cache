@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDin4LCDy5NV3o3nSYhO6Y+6PJJGoQcU22U4JbHl2M+/zjJKhSXZn5dwKayV2dF7MEaI9cKN0obSmj0MtMCqfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takec\\Github\\astc-converter-cs\\ConsoleApp2\\astc-converter-cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takec\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\takec\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
